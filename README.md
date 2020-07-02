@@ -2,4 +2,4 @@
 
 #### `npm start`
 
-#### `demo: (https://react-quiz-920d7.web.app/)`
+#### [demo](http://example.com/link)
